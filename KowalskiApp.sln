@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KowalskiApp.StdLibrary", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KowalskiApp.DesktopApp", "KowalskiApp.DesktopApp\KowalskiApp.DesktopApp.csproj", "{14716FEE-07F4-4601-93F7-3016CC9E336C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KowalskiApp.Tests", "KowalskiApp.Tests\KowalskiApp.Tests.csproj", "{627F4ABC-0619-41AA-A716-D2D13B2810D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{14716FEE-07F4-4601-93F7-3016CC9E336C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14716FEE-07F4-4601-93F7-3016CC9E336C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14716FEE-07F4-4601-93F7-3016CC9E336C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627F4ABC-0619-41AA-A716-D2D13B2810D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627F4ABC-0619-41AA-A716-D2D13B2810D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627F4ABC-0619-41AA-A716-D2D13B2810D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627F4ABC-0619-41AA-A716-D2D13B2810D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
