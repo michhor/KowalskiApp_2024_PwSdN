@@ -7,7 +7,7 @@
         public string Author { get; set; }
         public override string ToString()
         {
-            return $"{ Title }, {Author}";
+            return $"{Author}, { Title }";
         }
     }
 }
